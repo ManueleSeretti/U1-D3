@@ -26,12 +26,13 @@ body {
 .img {
   width: 500px;
   border-radius: 20px;
+  box-shadow: 8px 8px 8px black;
 }
 .feat {
   border-left: 2px solid orange;
   padding: 10px;
 }
-ul {
+.ul {
   line-height: 20px;
 }
 
@@ -45,4 +46,12 @@ h2 {
 .footer {
   width: 600px;
   margin: 0 auto;
+}
+.lista {
+  font-size: 13px;
+  text-align: left;
+  font-weight: bold;
+}
+ol li {
+  line-height: 20px;
 }
