@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Caprasimo&family=Montserrat&family=Roboto&display=swap");
+body {
+  margin: 0;
+}
+#intestazione {
+  text-align: center;
+}
+.logo img {
+  width: 100px;
+  margin: 0;
+}
+.int {
+  margin: 0;
+  height: 50px;
+  background-color: rgba(252, 252, 159, 0.397);
+  border-top: 2px solid yellow;
+}
+.contenuto {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Montserrat", sans-serif;
+}
+.titolo {
+  font-family: "Caprasimo", cursive;
+}
+.img {
+  width: 500px;
+  border-radius: 20px;
+}
+.feat {
+  border-left: 2px solid orange;
+  padding: 10px;
+}
+ul {
+  line-height: 20px;
+}
+
+h2 {
+  border-bottom: 1px solid lightblue;
+}
+.sally {
+  text-align: center;
+  font-size: 10px;
+}
+.footer {
+  width: 600px;
+  margin: 0 auto;
+}
