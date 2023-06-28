@@ -20,8 +20,12 @@ body {
   margin: 0 auto;
   font-family: "Montserrat", sans-serif;
 }
+.par {
+  font-size: 13px;
+}
 .titolo {
   font-family: "Caprasimo", cursive;
+  text-align: center;
 }
 .img {
   width: 500px;
@@ -32,16 +36,20 @@ body {
   border-left: 2px solid orange;
   padding: 10px;
 }
-.ul {
-  line-height: 20px;
+li {
+  margin-bottom: 10px;
+  font-size: 12px;
 }
-
+strong {
+  color: brown;
+}
 h2 {
   border-bottom: 1px solid lightblue;
 }
 .sally {
   text-align: center;
   font-size: 10px;
+  margin-top: 10px;
 }
 .footer {
   width: 600px;
@@ -51,7 +59,4 @@ h2 {
   font-size: 13px;
   text-align: left;
   font-weight: bold;
-}
-ol li {
-  line-height: 20px;
 }
